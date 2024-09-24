@@ -1,5 +1,6 @@
 //CLASE 24/09/2024
 //NOMBRE : Hernández Rodríguez Diego Noé
+//dy= dx
 
 //VARIABLES
 
