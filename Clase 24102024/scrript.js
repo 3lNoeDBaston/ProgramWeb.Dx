@@ -37,5 +37,7 @@ console.log(array);
 //eliminar
 array.splice(1,1);
 console.log(array);
-
 */
+//hacer una de estas cosas que digan hacer tarea y que te las muestre y que tengan un boton de eliminar y se recorra el texto hacia arriba
+
+
